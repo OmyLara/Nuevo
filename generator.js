@@ -1,5 +1,5 @@
 
-
+// by omylara
 // Es necesario para que se imprima un valor diferente cada vez, convertir random1 en una función, no en variable
 let todo =()=>{
     let random1 = () =>{
